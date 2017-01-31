@@ -1,0 +1,25 @@
+.first{
+	color: white;
+	background-color: #333;
+	text-align: center;
+	padding: 2em 5em;
+
+}
+.btn-first{
+	color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 5px 5px;
+}
+.img{
+	display: block;
+    margin: 0 auto;
+    height: 200px;
+    width: 300px;
+    padding: 5px;
+}
+.text{
+	text-align: center;
+}
